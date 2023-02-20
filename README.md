@@ -1,6 +1,6 @@
-The repository includes a relational database management system for AirBnB-like system using advanced relational database management functionalities. 
+The repository includes a relational database for AirBnB-like system using advanced relational database management functionalities. 
 
-The project required conceptualizing, designg and developing a robust database to handle high volume of data and trasactions
+The project required conceptualizing, designg and developing a robust database to handle high volume of data and trasactions.
 
 This project is developed using SQL on MS SQL Server.
 
